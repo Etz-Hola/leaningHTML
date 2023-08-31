@@ -1,0 +1,43 @@
+html{
+    font-size: 22px;
+}
+body{
+    background: linear-gradient(to left, blue, green);
+    min-height: 100vh;
+    max-width: 800px;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+    margin: 0 auto;
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    padding: 0.5rem;
+
+}
+.tittle1{
+    text-shadow: #333;
+    background-color: aliceblue;
+    text-decoration: double;
+    text-emphasis-style: ;
+}
+.firstrole{
+    background-color: #ffc9b9;
+}
+.hours{
+    background-color: #ff9100;
+}
+.hursman{
+    background-color: #ffc9b9;
+}
+button{
+    background-color: #373d20;
+    color: #ff7f51;
+}
+footer{
+    background-color: rgb(82, 185, 177);
+}
+label{
+    background-color: #ff7f51;
+}
